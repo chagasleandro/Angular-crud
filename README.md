@@ -3,11 +3,8 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
 ## Development server
-<img src="src/assets/teste1.png" alt="tela 1">
+
 Install json-server (https://github.com/typicode/json-server):
-<img src="src/assets/teste2.png" alt="tela 2">
-<img src="src/assets/teste3.png" alt="tela 3">
-<img src="src/assets/teste4.png" alt="tela 4">
 
 ```
 npm install -g json-server
@@ -45,6 +42,11 @@ Now if you go to [http://localhost:3000/itens/1](http://localhost:3000/itens/1),
 ```
 
 Then run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+<img src="src/assets/teste1.png" alt="tela 1">
+<img src="src/assets/teste2.png" alt="tela 2">
+<img src="src/assets/teste3.png" alt="tela 3">
+<img src="src/assets/teste4.png" alt="tela 4">
 
 ## Build
 
