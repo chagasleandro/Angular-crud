@@ -26,7 +26,7 @@ Create a `db.json` file with some data
  	]
  }
  ```
-Start JSON Server
+Start JSON Server in back-end folder.
 
 ```bash
 json-server --watch db.json
