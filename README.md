@@ -1,10 +1,13 @@
 # AngularCrud
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
 ## Development server
 <img src="src/assets/teste1.png" alt="tela 1">
 Install json-server (https://github.com/typicode/json-server):
+<img src="src/assets/teste2.png" alt="tela 2">
+<img src="src/assets/teste3.png" alt="tela 3">
+<img src="src/assets/teste4.png" alt="tela 4">
 
 ```
 npm install -g json-server
@@ -26,7 +29,7 @@ Create a `db.json` file with some data
  	]
  }
  ```
-Start JSON Server
+Start JSON Server in back-end folder.
 
 ```bash
 json-server --watch db.json
