@@ -20,7 +20,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## :rocket: Technologies ##
 
-<p>Esse projeto foi desenvolvido usando as seguintes tecnologias:</p>
+<p>This project was developed using the following technologies:</p>
 
 <img  alt="ANGULAR"
      src="https://img.shields.io/badge/ANGULAR-E34F26?style=for-the-badge&logo=angular&logoColor=white"/>
