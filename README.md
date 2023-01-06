@@ -37,7 +37,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ## :checkered_flag: Starting ##
 ```bash
-# Clonando esse repositório
+# cloning this repository
 $ git clone https://github.com/chagasleandro/Angular-crud.git
 # Acces
 $ cd Angular-crud
