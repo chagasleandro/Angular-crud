@@ -38,11 +38,11 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 ## :checkered_flag: Starting ##
 ```bash
 # Clonando esse repositório
-$ git clone https://github.com/chagasleandro/Angular-ApiRequest
+$ git clone https://github.com/chagasleandro/Angular-crud.git
 # Acces
-$ cd Angular-ApiRequest
+$ cd Angular-crud
 # Install dependencies
-$ npm
+$ npm install
 # Run the project
 $ ng serve -o
 # The server will initialize in the <https://localhost:4200>
