@@ -50,10 +50,11 @@ $ ng serve -o
 
 ## Development server
 
+```bash
 # Acces
 $ cd backend
 # Install json-server
-
+```
 Install [json-server](https://github.com/typicode/json-server)
 
 ```
